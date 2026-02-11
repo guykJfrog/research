@@ -1,7 +1,7 @@
 ---
 excerpt: The JFrog security research team recently uncovered a sophisticated malicious package called "duer-js" published on NPM by the user "luizaearlyx". After complex analysis, the package was identified as an advanced windows targeted information stealer, self-named as “bada stealer”. The package remains active as of this publication.
 title: How a Complex Multi Payload Infostealer Hid in NPM Disguised as 'Console Visibility'
-date: "September 30, 2025"
+date: "February 11, 2026"
 description: "Guy Korolevski, JFrog Security Researcher"
 tag: "Real Time Post"
 img: /img/RealTimePostImage/post_thumbnail1.png
