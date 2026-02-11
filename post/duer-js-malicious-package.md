@@ -258,9 +258,9 @@ This package is already detected by JFrog Xray and JFrog Curation, under the Xra
 
 ## IOC
 
-* `hxxps\[:\]//discord\[.\]com/api/webhooks/1455324432548499496/6oMVbi2PYDxrBiOtHe2tpBSUOdBJpz2RDEiwLkHUqeqJbgIPiONHafMP5tHXYjAVK2R3`
-* `hxxps\[:\]//ghostbin\[.\]axel\[.\]org/paste/yckfb/raw`  
-* `https\[:\]//raw\[.\]githubusercontent\[.\]com/xSalca/Viral/main/index\[.\]js`
+* `hxxps[:]//discord[.]com/api/webhooks/1455324432548499496/6oMVbi2PYDxrBiOtHe2tpBSUOdBJpz2RDEiwLkHUqeqJbgIPiONHafMP5tHXYjAVK2R3`
+* `hxxps[:]//ghostbin[.]axel[.]org/paste/yckfb/raw`  
+* `https\[:]//raw\[.]githubusercontent\[.]com/xSalca/Viral/main/index[.]js`
 * Github user \- [https://github.com/xSalca/](https://github.com/xSalca/)  
 * Github repo \- [https://github.com/xSalca/Viral](https://github.com/xSalca/Viral)  
 * NPM package \- [`duer-js`](https://www.npmjs.com/package/duer-js?activeTab=code) \- XRAY-938808  
